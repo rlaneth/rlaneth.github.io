@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <style>.cls-1{fill:#26241e;}.cls-2{fill:#0383c6;}.cls-3{fill:#106ea2;}</style>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x=".23292" y=".23292" width="33.401" height="33.401" ry="3.2491" fill="#fff" stroke-opacity="0"/>
+ <g transform="matrix(.21532 0 0 .21532 1.3229 3.4761)">
+  <path class="cls-1" d="m145 41.683v41.604l-72.5 41.713-72.5-41.713v-41.604l72.5 41.752z" stroke-width=".98579"/>
+  <path class="cls-2" d="m0 83.337v-41.604l72.5-41.732 72.5 41.732v41.604l-72.5-41.752z" stroke-width=".98579"/>
+  <polygon class="cls-3" transform="scale(.98733 .98425)" points="0 42.4 0 84.63 0.04 84.65 36.63 63.51 0.04 42.37"/>
+  <polygon class="cls-3" transform="scale(.98733 .98425)" points="146.86 84.63 146.86 42.4 146.82 42.37 110.23 63.51 146.82 84.65"/>
+ </g>
+</svg>
